@@ -1,2 +1,2 @@
-# go-mux-auth-playground
+# Go playground
 Just a playground project with go
